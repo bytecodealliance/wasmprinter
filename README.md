@@ -15,7 +15,7 @@ This crate is published on crates.io, so you can depend on it with:
 
 ```toml
 [dependencies]
-wasmprinter = "1.0"
+wasmprinter = "0.2.0"
 ```
 
 You can then convert wasm binaries to strings like so:
